@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cryptodefi/static/css/main.bf99282f.css",
+    "main.js": "/cryptodefi/static/js/main.26e4c983.js",
+    "static/media/video.mp4": "/cryptodefi/static/media/video.a2703484bb9eee7d0c2e.mp4",
+    "static/media/subscribe.jpg": "/cryptodefi/static/media/subscribe.5e6ecdcfa451a31625d0.jpg",
+    "static/media/terminal.png": "/cryptodefi/static/media/terminal.008c23b28e62ddbd576c.png",
+    "index.html": "/cryptodefi/index.html",
+    "main.bf99282f.css.map": "/cryptodefi/static/css/main.bf99282f.css.map",
+    "main.26e4c983.js.map": "/cryptodefi/static/js/main.26e4c983.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf99282f.css",
+    "static/js/main.26e4c983.js"
+  ]
+}
